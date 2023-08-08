@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254727243856",
+    "project_id": "placid-online-e772f",
+    "storage_bucket": "placid-online-e772f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254727243856:android:13ec3f021fe5496e162955",
+        "android_client_info": {
+          "package_name": "dev.bijon.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254727243856-s8cn4mpa6au16fkvkelh552kj8rnchn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQ4RM-iW6jmHFIxEakZuEV_TVjZRptkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254727243856-s8cn4mpa6au16fkvkelh552kj8rnchn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
